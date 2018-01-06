@@ -1,2 +1,2 @@
-body {}
-#main {height:100%;}
+html,body {height:100%;}
+.cover {min-height: 100%;}
