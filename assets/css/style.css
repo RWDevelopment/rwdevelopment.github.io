@@ -1,2 +1,6 @@
 html,body {height:100%;}
+body > * {
+  background-position: center;
+  background-size: cover;
+}
 .cover {min-height: 100%;}
