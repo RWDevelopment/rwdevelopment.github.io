@@ -11,7 +11,7 @@ body > * {
   color:white;
   background-size:cover;
   background-position: center;
-	&:before {
+    &:before {
     position: absolute;
     top:0px;
     left:0px;
@@ -19,4 +19,5 @@ body > * {
     height: 100%;
     content: ' ';
     background: rgba(255,255,255,0.7);
+    }
 }
