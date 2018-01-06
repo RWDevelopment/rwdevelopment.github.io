@@ -3,4 +3,6 @@ body > * {
   background-position: center;
   background-size: cover;
 }
-.cover {min-height: 100%;}
+.cover {
+  background-image: url(../img/bg.jpg);
+  min-height: 100%;}
