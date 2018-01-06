@@ -45,5 +45,5 @@ body > * {
   //-ms-box-shadow: 0 0 9px 0 rgba(0, 0, 0, 0.1);
   //box-shadow: 0 0 9px 0 rgba(0, 0, 0, 0.1);
   background: #fff;
-  border-bottom: #ccc;
+  border-bottom: 1px solid #ccc;
 }
