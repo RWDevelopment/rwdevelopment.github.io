@@ -15,6 +15,9 @@ body > * {
   background-image: url(../img/bg.jpg);
   height: 100%;
 }
+.shadow {
+  box-shadow: -13px 13px 49px -17px #000;
+}
 .opaque-overlay {
   overflow: hidden;
   position: relative; 
