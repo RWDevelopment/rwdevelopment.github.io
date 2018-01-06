@@ -40,9 +40,10 @@ body > * {
   top: 0;
   z-index: 1000;
   width: 100%;
-  -webkit-box-shadow: 0 0 9px 0 rgba(0, 0, 0, 0.1);
-  -moz-box-shadow: 0 0 9px 0 rgba(0, 0, 0, 0.1);
-  -ms-box-shadow: 0 0 9px 0 rgba(0, 0, 0, 0.1);
-  box-shadow: 0 0 9px 0 rgba(0, 0, 0, 0.1);
+  //-webkit-box-shadow: 0 0 9px 0 rgba(0, 0, 0, 0.1);
+  //-moz-box-shadow: 0 0 9px 0 rgba(0, 0, 0, 0.1);
+  //-ms-box-shadow: 0 0 9px 0 rgba(0, 0, 0, 0.1);
+  //box-shadow: 0 0 9px 0 rgba(0, 0, 0, 0.1);
   background: #fff;
+  border-bottom: #ccc;
 }
