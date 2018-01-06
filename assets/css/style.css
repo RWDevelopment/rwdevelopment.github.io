@@ -8,7 +8,7 @@ body > * {
   background-attachment: fixed;
   background-position: center;
 }
-.navbar {
+.navba {
   -webkit-transition: all 0.2s ease;
   -moz-transition: all 0.2s ease;
   -o-transition: all 0.2s ease;
