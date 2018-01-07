@@ -8,13 +8,6 @@ body > * {
   background-attachment: fixed;
   background-position: center;
 }
-.navba {
-  -webkit-transition: all 0.2s ease;
-  -moz-transition: all 0.2s ease;
-  -o-transition: all 0.2s ease;
-  -ms-transition: all 0.2s ease;
-  transition: all 0.2s ease;
-}
 .cover {
   background-image: url(../img/bg.jpg);
   height: 100%;
@@ -35,7 +28,7 @@ body > * {
     left: 0px;
     top: 0px;
     pointer-events: none;
-    background: rgba(255, 255, 255, 0.666);
+    background: rgba(255, 255, 255, 0.75);
 }
 .sticky.is-sticky {
   position: fixed;
