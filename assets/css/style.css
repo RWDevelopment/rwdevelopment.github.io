@@ -1,5 +1,5 @@
 html,body {height:100%;
-  font-family: 'Roboto Mono', monospace;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 body > * {
   background-size: cover;
