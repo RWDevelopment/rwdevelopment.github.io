@@ -7,7 +7,7 @@ body > * {
   background-attachment: fixed;
   background-position: center;
 }
-.navbar {border-bottom: 1px solid #ddd;border-top: 1px solid #ddd;}
+.navbar {border-bottom: 1px solid #eee;border-top: 1px solid #eee;}
 .animate {
  -webkit-animation: jump 1.5s ease 0s infinite normal ;
  animation: jump 1.5s ease 0s infinite normal ;
