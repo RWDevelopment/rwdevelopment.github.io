@@ -7,6 +7,9 @@ body > * {
   background-attachment: fixed;
   background-position: center;
 }
+.btn {
+border-radius: 0px;
+}
 .animate {
  -webkit-animation: jump 1.5s ease 0s infinite normal ;
  animation: jump 1.5s ease 0s infinite normal ;
