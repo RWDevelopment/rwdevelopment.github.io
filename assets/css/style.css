@@ -19,7 +19,6 @@ body > * {
   box-shadow: -13px 13px 49px -17px #000;
 }
 .btn-shadow {
-  background-color: #f9a743;
   -moz-box-shadow: 0 15px 40px rgba(249, 167, 68, 0.5);
   -webkit-box-shadow: 0 15px 40px rgba(249, 167, 68, 0.5);
   box-shadow: 0 15px 40px rgba(249, 167, 68, 0.5);
