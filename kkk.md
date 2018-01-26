@@ -1,11 +1,8 @@
----
- title: My Test Post
- author: Johnny Q. Blogger
- author_bio: >
-             I blog about things, and my middle
-             inital is Q. You’ll never guess
-             what the ‘Q’ stands for. Trust me.
- layout: post
- ---
- 
- ## fsddfgfdg
+Subtitle:    |  
+Project:     |  
+Author:      Hilton Lipschitz  
+Affiliation: Noverse LLC  
+Web:         http://www.noverse.com  
+Date:        June 18, 2012  
+
+Your first paragraph starts here
